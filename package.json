@@ -1,0 +1,11 @@
+{
+  "name": "sass_course",
+  "version": "0.0.1",
+  "description": "sass course",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./styles/sass/style.scss ./styles/css/style.css"
+  },
+  "author": "Marlon",
+  "license": "ISC"
+}
